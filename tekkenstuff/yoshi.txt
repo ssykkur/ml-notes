@@ -35,7 +35,7 @@ WS21, d, flash,- d,2,2 - df1,2,1 - f3+4 - d2,2,2 - ff2,2
 
 DF3(nss), 
         dash, f2,1, 3,1 (or 3~4), f1+2 56
-        f3+4, nss flash, 3~4, f1+2
+        f3+4 (slight delay), nss flash, 3~4, f1+2
                 
 df2, dash, nss flash, dash, d,2,2,b, df1,2,1,ssr nss flash >d,2,2 (66)
 df2 (inconsistent on small), dash 1ss, d,2,2b, 1, f3+4, 2,2 T! nss flash, dash b2,1 (70)*
@@ -50,6 +50,7 @@ nss flash > 3,1 > 2,2,4 > 3~4u>f1+2 59
 low parry, d,2,2,b > 1, f3+4 > d,2,2,2
 
 >heatdash> d+2,2~B ⏵ df+1 ⏵ df+1,2,1 T! ⏵ NSS 1+4 ⏵ (dash) d+2,2 (61)
+            d,2,2b > 1, f3+4 > route
 
 b2,1 - kin4 - kin b2,1 - dash uf1 - cd1
 
@@ -89,4 +90,7 @@ small stages (wall carry):
     nss flash same** (94)
 
     explosive stages:
-        just add dgf f1+2
+        just add dgf f1+2 when they float
+
+
+low splat wall ender - 1, 3~4u, 4
