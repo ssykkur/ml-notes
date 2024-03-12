@@ -1,0 +1,30 @@
+lars:
+    d1 - -12
+    up1+2 - 1+2break
+    df1 - 12
+    d1+2 - -20
+    uf3 - -26
+    f2+4 - -16
+
+jun:
+    df1+2 - low-high, -26 low
+    df2 - -13
+
+king:
+    sidestep and be ready for the 1+2 break
+
+    giant swing - 1 break
+    tombstone - 2 break
+    muscle buster - 1+2 break
+    shining wizard - 
+    bridge - 1+2 (after muscle buster)
+
+alisa:
+    ff4 - -9 (ssr)
+    ff2 - -18
+    df3 - -13
+    d1+2 - -13
+    d3 - -10 (reactable)
+
+asuka:
+    ff2 - 18f
