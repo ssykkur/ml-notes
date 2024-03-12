@@ -4,8 +4,6 @@ import os
 from scipy import optimize
 
 
-
-
 def plot_data(X, y, xlabe, ylabe):
     fig = plt.figure()
 
