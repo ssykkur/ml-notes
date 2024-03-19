@@ -59,5 +59,4 @@ if __name__ == '__main__':
 
     all_theta = one_vs_all(X, y, num_labels, lambda_=0.1)
     pred = predict_one_vs_all(all_theta, X)
-
     print(f'Training Set Accuracy: {np.mean(pred == y) * 100}%')
