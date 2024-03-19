@@ -3,6 +3,14 @@ import numpy as np
 from matplotlib import pyplot
 sys.path.append('..')
 
+
+def sigmoid(z):
+    """
+    Computes the sigmoid of z.
+    """
+    return 1.0 / (1.0 + np.exp(-z))
+
+    
 def mapFeature(X1, X2, degree=6):
     """
     Maps the two input features to quadratic features used in the regularization exercise.
