@@ -33,7 +33,8 @@ FF4	BT 2,1 T! ⏵ [ 3~4 ]~U ⏵ DGF f+1+2 (62)
 WS21, d, flash,- d,2,2 - df1,2,1 - 3~4 - 3,2,1+2 (~80)
 WS21, d, flash,- d,2,2 - df1,2,1 - f3+4 - d2,2,2 - ff2,2
 
-DF3(nss), 
+fc DF3(nss), 
+        ssl dash, flash, f2,1, 3~4, 1+2 59
         dash, f2,1, 3,1 (or 3~4), f1+2 56
         f3+4 (slight delay), nss flash, 3~4, f1+2
                 
@@ -96,6 +97,12 @@ small stages (wall carry):
     explosive stages:
         just add dgf f1+2 when they float
 
+floor breaks:
+    1,1nss
+    d,2,2,d1
+    uf1+2
+    dgf grab
+
 
 low splat wall ender - 1, 3~4u, 4
 
@@ -106,3 +113,9 @@ float combo - float, 1, d,2,2b, 3,2, 1+2
 
 
 after high launch - full jump forward 4
+
+2,2, kin, f1+2 to break floors\
+
+f1 wake up
+
+u3+4 - breaks the floor!

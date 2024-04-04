@@ -10,6 +10,9 @@ jun:
     df1+2 - low-high, -26 low
     df2 - -13
 
+    1+4, 2 --- 
+    1+4, 3 --- fuzzy duck after second hit, flash if ducked
+
 king:
     sidestep and be ready for the 1+2 break
 
