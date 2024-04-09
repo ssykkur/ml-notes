@@ -119,3 +119,13 @@ after high launch - full jump forward 4
 f1 wake up
 
 u3+4 - breaks the floor!
+
+wall setups:
+    b1, 1+4, cd2 
+    db2, 1+4, cd2
+    2(ch), 1+4, cd2
+    
+    no sidewall :
+        b1, 
+    b1, 1+4, cd2, 4~3, ff4, d1+4 (catches left tech) 
+    
