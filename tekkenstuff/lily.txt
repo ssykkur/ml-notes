@@ -1,0 +1,93 @@
+punishment:
+    standing:
+        10f - 2,4 (bad range), 
+                1,1 (+4 backturn), 
+                1,2 +8 low dmg
+
+        12f - f2,3 (wall splats). feet up splat => combo
+                1+2 - for moves that recover low
+        13f - f2,3 cause KD
+                df4,4
+        no f14 punish 
+        15f - uf3 (hopkick)
+                3,1 - long range, HE 
+        16f - df2
+        17f - f4, long range punishment
+                d3+4 - horn
+ws:
+        11f - 4. d4 followup, df4,4 at the wall
+        13f - 1,2: 4 - low KD, CH launch (-14), voila        followup, can go into dew glide
+
+        14f - df1, wallsplats (but generally 1,2 is better)
+        15f - ws3, launcher (-21)
+        16f - ws2, launcher (-12)
+
+whiff:
+        jab strings
+        f2,3
+        3,1
+        u3
+        df2
+        b1,4 (kd, wallsplats)
+        qcf1,2(kd, wallsplats)
+        d3+4 for big whiffs
+key moves:
+        1 - +1ob, +8oh (f4(ch launch) frame trap):
+                -> 1,2 jails
+                -> 1,2,3. low ender -2oh, -13ob. +6 on CH and    forces crouch -> f1+2 frame trap (1+2 followup on CH). uf3 also frame traps at +6
+                -> 1,2,4 safe but ssable and can be interrapted ob
+                -> 1,1,3 ch launch, -15ob. guaranteed on ch. qcf3 on  wall
+        df1 - main midpoke, +8oh, -1ob
+        
+        b1 - 4 followup. generally go for the dew glide cancel to continue offense. +8 oh into dew glide. 0 ob
+        qcf3+4 - +6ob, frame trap with df4, f1+2. high high
+        
+        df3 - power mid +3ob, +8oh, linear and slow. forces crouch. ch launch
+        d3 - main low poke, +1 oh, -12ob. +5 CH --> f1+2 trap
+        
+        d1,2 - low high. natural OH. hold b for backturned +2 oh. 1+2 trades with jabs, beats other options. just d1 neutral ob, maybe go for fc df1
+
+        ff4 - main powerlow, +4oh, -12ob. df1, df4, 1+2 frametrap
+                hold b transition into backturned. +10oh
+                bt 1,2/4 (HE) guaranteed on CH. stagger animation for confirms
+
+                ob can turn around to avoid >13 punishers
+                or bt2 to power crush through >12 attacks
+
+        f4 - main CH launcher
+        f3 - main homing, good at walls, -3ob. qcf 3 guaranteed on CH
+HEAT:
+        HEs:
+        3,1 - 15s, -13ob
+        3+4 - 23s, -2ob. first move homing
+        qcf2, 1+2 - 14s, -13ob. first move tracks. natural. ff3 f guarantees that oh
+
+        b3/b4, 2 - -9
+                mix up with 3 (homing low, +3oh, -13oh, CH launch)
+        bt1,4 - double high, doesnt jail. qcf3 guaranteed from heat dash
+        
+        neutral heatsmash - 23f startup, first 2 hits are highs. +9 ob into backturned. homing but too slow. hard breaks floors
+
+        bt heatsmash - 16f low, -8 into bt, wallsplats at the correct distance. turn around to block 15f punishes. power crush with 2 through 14f punishers
+
+        feisty rabbit is empowered in heat
+        can do b3/4 from dew glide and bt
+
+        4follow up from b3/4 and qcf1 becomes +4 instead of +2
+
+        b3/4 3 KDs with qcf3 guaranteed. (cancel croush with ff or ss ). 
+
+
+
+
+
+
+
+
+combo example for f4 CH:
+        uf4 b, bt 3,4, b1 f 3
+
+for b3/4, 3 (ch):
+        qcf3, df1, b2,1 f, 1,4
+
+    

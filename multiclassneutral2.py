@@ -82,3 +82,6 @@ def random_ini_weights(L_in, L_out, epsilon_init=0.12):
 if __name__ == '__main__':
     pass
     
+
+
+ 
