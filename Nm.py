@@ -36,10 +36,12 @@ def hessian_f_2(x, y):
     hessian_f = np.array([[12*x**2 + 8 - 0.4*y, -1 - 0.4*x],
                          [-1 - 0.4*x, 9.6*y**2 + 4]])
     return hessian_f
+
 x_0, y_0 = 4, 4
 print(f"f{x_0, y_0} = {f_2(x_0, y_0)}")
 print(f"grad f{x_0, y_0} = \n{grad_f_2(x_0, y_0)}")
 print(f"H{x_0, y_0} = \n{hessian_f_2(x_0, y_0)}")
+
 
 def plot_f_cont_and_surf(f):
     
@@ -81,3 +83,9 @@ def plot_f_cont_and_surf(f):
     return fig, axc, axs
 
 plot_f_cont_and_surf(f_2)
+
+def newtons_method_2(f, grad_f, hessian_f, x_y, num_iterations=100):
+    for iteration in range(num_iterations):
+        x_y = x_y - np.matmul(np.linalg.inv(hessian_f(x_y[0,0], x_y[1,0])), grad_f(x_y[0,0], x_y[1,0]))
+        print(x_y.T)
+    return x_y
