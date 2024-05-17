@@ -54,6 +54,21 @@ def poly_features(X, p):
     return X_poly 
 
 
+#Generate the train and validation errors needed to plot a validation
+#curve that we can use to select lambda_
+def validationCurve(X, y, Xval, yval):
+    lambda_vec = [0, 0.001, 0.003, 0.01, 0.03, 0.1, 0.3, 1, 3, 10]
+
+    error_train = np.zeros(len(lambda_vec))
+    error_val = np.zeros(len(lambda_vec))
+
+    for i in range(len(lambda_vec)):
+        lambda__ = lambda_vec[i]
+        theta_t = utils.trainLinearReg(linearRegCostFunction, X, y, lambda__)
+        error_train[i], _ = linearRegCostFunction(X, y, theta_t, lambda_=0)
+        error_val[i], _ = linearRegCostFunction(Xval, yval, theta_t, lambda_=0)
+    return lambda_vec, error_train, error_val
+
 if __name__ == '__main__':
     #training set error test
     mtest = Xtest.shape[0]
